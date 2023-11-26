@@ -3,6 +3,8 @@
 LEDを点滅させるソースコードです。
 いわゆるLチカです。
 
+https://github.com/hinagithub/raspberrypi-sensor/assets/44778704/5347581d-7939-42fe-abf8-c81c08849ca9
+
 # GPIO
 
 <img width="300" alt="image" src="https://github.com/hinagithub/raspberrypi-sensor/assets/44778704/af956fa3-ca6a-4a68-be2b-5e3f88b304a0">
